@@ -56,7 +56,7 @@ the system will automatically learn which proxies perform poorly and stop using 
 python3 instagrambruteforcer.py -u <username> -p <passlist>
 ```
 
-### Run
+### Execute
 
 ```
 [-] Wordlist: passlist.txt
