@@ -2,6 +2,7 @@
 # Author: Cyber Lord
 # Description: Instagram BruterForcer
 
+
 # from lib.proxy import Proxy
 import os
 import time
@@ -281,3 +282,4 @@ if __name__ == "__main__":
         exit()
 
     main()
+
