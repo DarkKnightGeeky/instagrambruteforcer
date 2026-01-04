@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 TESTING_SERVER_MODS="--enable-info --enable-ssl --enable-cgi --enable-dav"
 
 if [ "$1" != "" ]
